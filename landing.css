@@ -1,0 +1,82 @@
+
+.backgroundlogin{
+    background-color:pink;
+}
+
+.head1{
+    font-size:25px;
+    color:red;
+}
+
+.backgroundimage{
+    background-image:url("https://res.cloudinary.com/dmmn1lde2/image/upload/v1748005794/travel-concept-with-landmarks_1_wxi7am.jpg");
+    height:70vh;
+    background-size:cover;
+    padding:20px;
+    text-align:center;
+
+}
+
+.tourhead{
+    color:blue;
+    font-size:50px;
+    padding:30px;
+    font-size:bold;
+    text-decoration:underline;
+}
+
+.pad1{
+    padding:30px;
+}
+
+.background1{
+    background-color:pink;
+}
+
+.card1{
+    background-color:#FF788E;
+    border-radius:8px;
+    margin:10px;
+    padding:5px;
+    height:110px;
+}
+.cardhead{
+    font-size:20px;
+    font-weight:bold;
+    color:aqua;
+}
+.paracard{
+    font-size:15px;
+    font-weight:bold;
+    color:white;
+}
+.image1{
+    height:100px;
+    width:100px;
+    margin-left:5px;
+    margin-right:0px;
+}
+.head2{
+    font-size:30px;
+    color:black;
+    padding:30px;
+    font-weight:bold;
+}
+.para1{
+    font-size:px;
+    color:aquamarine;
+    padding:20px;
+    font-weight:bold; 
+    margin-top:0px;
+}
+.background2{
+    background-color:rgb(182, 149, 149);
+}
+.image2{
+    height:500px;
+    width:500px;
+}
+.image3{
+    height:40px;
+    width:40px;
+}

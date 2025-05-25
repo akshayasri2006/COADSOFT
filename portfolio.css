@@ -1,0 +1,158 @@
+.homebackground{
+    background-color:aqua;
+}
+.akshayasri{
+    color:rgb(55, 29, 173);
+    font-size:20px;
+    font-family:"Sans Serif";
+    font-style:italic;
+}
+.homea{
+    color:rgb(185, 39, 95);
+    font-size:20px;
+    font-weight:bold;
+    font-family:"Bree Serif";
+}
+.homebackground1{
+    background-color:white;
+}
+.hihead{
+    font-size:30px;
+    font-weight:bold;
+    padding: 30px;
+    margin-right:0px;
+}
+.homeimage1{
+    height:40px;
+    width:40px;
+    margin-top:25px;
+    margin-left:0px;
+}
+.link{
+    height:50px;
+    width:50px;
+    margin-left:30px;
+    margin-top:0px;
+    background-color:blue;
+    color:white;
+    text-align:center;
+    border-width:0px;
+    border-radius: 50px;
+    text-align:center;
+    font-size:15px;
+    
+}
+.homepara{
+    font-size: 18px;
+    color:rgb(119, 116, 116);
+    padding:30px;
+    margin-top:0px;
+}
+.google{
+    height:50px;
+    width:50px;
+    margin-left:30px;
+    margin-top:0px;
+    background-color:red;
+    color:white;
+    text-align:center;
+    border-width:0px;
+    border-radius: 50px;
+    text-align:center;
+    font-size:15px;
+    
+}
+.homebutton{
+    height:50px;
+    width:150px;
+    margin-left:30px;
+    margin-top:20px;
+    background-color:rgb(75, 6, 75);
+    color:white;
+    text-align:center;
+    border-width:0px;
+    text-align:center;
+    font-size:15px;
+}
+.homeimage3{
+    height:80vh;
+    width:50vw;
+    margin-top:30px;
+}
+.cardskills{
+    background-color:rgb(241, 189, 215);
+    border-width:5px;
+    border-radius:12px;
+    margin:30px;
+    width:350px;
+    padding:30px;
+    height:350px;
+}
+.cardpro{
+    background-color:rgb(241, 189, 215);
+    border-width:5px;
+    border-radius:12px;
+    width:350px;
+    padding:30px;
+    height:350px;
+}
+.pro{
+    height:350px;
+    width:270px;
+}
+.marg{
+    margin-top:15px;
+}
+.card1{
+    background-color:rgb(241, 189, 215);
+    border-width:5px;
+    border-radius:8px;s
+    width:40vw;
+    padding:20px;
+    height:90vh;
+}
+.headskills{
+    font-size:30px;
+    font-weight:bold;
+    font-family: "Bree Serif";
+}
+.skilllist{
+    font-size:20px;
+    margin-top:20px;
+    color:rgb(27, 22, 22);
+    font-family:"Bree Serif";
+}
+.skillimage{
+    height:400px;
+    width:400px
+}
+
+.pad{
+    margin:30px;
+}
+.certificates{
+    width:40vw;
+    height:40vh;
+    margin:10px;
+}
+.projectimage{
+    height:100px;
+    width:140px;
+    margin:10px;
+}
+.myimage{
+    height:150px;
+    width:150px;
+    border-radius:350px;
+    margin-left:50px;
+    margin-top:100px;
+    margin-right:100px;
+}
+
+.pad2{
+    padding:40px;
+}
+.tech{
+    font-size:15px;
+    font-weight:bold;
+}
